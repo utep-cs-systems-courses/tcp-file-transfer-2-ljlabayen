@@ -1,0 +1,4 @@
+student@systems-vm:~/Documents/tcp-file-transfer-2-ljlabayen/file-transfer-lab-threads>python3 fileServer.py
+listening on: ('127.0.0.1', 50001)
+new thread handling connection from ('127.0.0.1', 34164)
+File with name image.png already exists on server. exiting...
